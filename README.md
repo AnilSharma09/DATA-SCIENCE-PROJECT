@@ -1,6 +1,6 @@
-# CODSOFT - Data Science Internship
+ Data Science Internship
 
-This repository contains the projects and tasks completed during my **Data Science Internship at CODSOFT**.
+This repository contains the projects and tasks completed during my **Data Science Internship **.
 
 The projects demonstrate practical applications of Data Science, including data preprocessing, exploratory data analysis, data visualization, feature engineering, machine learning, and model evaluation.
 
